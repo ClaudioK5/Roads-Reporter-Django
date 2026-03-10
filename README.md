@@ -42,7 +42,7 @@ Excel-файл должен содержать следующие колонки
 1. Склонировать репозиторий:
 
 
-git clone https://github.com/ВАШ_USERNAME/ВАШ_РЕПОЗИТОРИЙ.git
+git clone https://github.com/ClaudioK5/Roads-Reporter-Django.git
 
 
 2. Перейти в папку проекта:
