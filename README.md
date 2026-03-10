@@ -48,7 +48,7 @@ git clone https://github.com/ClaudioK5/Roads-Reporter-Django.git
 2. Перейти в папку проекта:
 
 
-cd название_проекта
+cd Roads-Reporter-Django
 
 
 3. Установить зависимости:
