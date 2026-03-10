@@ -19,7 +19,7 @@
 
 Приложение доступно по адресу:
 
-http://вашпроект.pythonanywhere.com
+https://klaudio56.pythonanywhere.com/
 
 ---
 
